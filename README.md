@@ -73,7 +73,7 @@ Each record corresponds to a single accident, providing key information such as 
 ## 4. Data Composition and Amount
 
 ### 4.1 File Structure
-
+```
 dataset/  
 ├── train/   
 │ ├── A1.csv  
@@ -81,7 +81,7 @@ dataset/
 └── test/  
   ├── A1.csv  
   └── A2.csv
-
+```
 
 - **A1.csv**: Fatal accidents (years 108–113).  
 - **A2.csv**: Injury-only accidents (years 108–113).
@@ -166,4 +166,5 @@ Additional columns for vehicles and age distribution:
 
 This documentation outlines the structure, source, and processing of the Taiwan Traffic Accident Dataset. It aims to provide clarity for researchers or data scientists who wish to use it for predictive modeling, statistical analysis, or any other form of data exploration. For additional details—such as more extensive mappings, year-by-year record counts, or deeper breakdowns of accident severities—please refer to the appendix or experiment sections.
 
-> **Note**: For more information, please check report.pdf.
+> **Note**: For more information, please check report.pdf.  
+and you can download raw_data folder here: https://gofile.me/7srmc/bhtAxWiQC
