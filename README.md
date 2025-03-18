@@ -11,13 +11,13 @@ Each row in the dataset represents a single accident event (rather than a single
 
 ## Table of Contents
 
-1. [Overview](#overview)  
-2. [External Source](#external-source)  
-3. [Data Processing and Tools Used](#data-processing-and-tools-used)  
-4. [Data Composition and Amount](#data-composition-and-amount)  
-5. [Data Collection Conditions](#data-collection-conditions)  
-6. [Examples](#examples)  
-7. [Final Remarks](#final-remarks)
+1. [Overview](#1-overview)  
+2. [External Source](#2-external-source)  
+3. [Data Processing and Tools Used](#3-data-processing-and-tools-used)  
+4. [Data Composition and Amount](#4-data-composition-and-amount)  
+5. [Data Collection Conditions](#5-data-collection-conditions)  
+6. [Examples](#6-examples)  
+7. [Final Remarks](#7-final-remarks)
 
 ---
 
