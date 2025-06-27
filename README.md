@@ -167,4 +167,4 @@ Additional columns for vehicles and age distribution:
 This documentation outlines the structure, source, and processing of the Taiwan Traffic Accident Dataset. It aims to provide clarity for researchers or data scientists who wish to use it for predictive modeling, statistical analysis, or any other form of data exploration. For additional details—such as more extensive mappings, year-by-year record counts, or deeper breakdowns of accident severities—please refer to the appendix or experiment sections.
 
 > **Note**: For more information, please check report.pdf.  
-and you can download raw_data folder here: [https://gofile.me/7srmc/bhtAxWiQC](https://drive.google.com/drive/folders/1FCXP7TlwVDNxsxidfBJm7JyJa9SewwWW?usp=sharing)
+and you can download raw_data folder here: [Link](https://drive.google.com/drive/folders/1FCXP7TlwVDNxsxidfBJm7JyJa9SewwWW?usp=sharing)
